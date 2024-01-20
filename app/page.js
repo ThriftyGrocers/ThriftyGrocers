@@ -43,7 +43,7 @@ const HomePage = () => {
           href="#"
         >
           <img
-            src="img/ThriftyGrocer.png"
+            src="/img/ThriftyGrocer.png"
             alt="Thrifty Grocer Logo"
             className="h-20 inline"
           />
@@ -226,7 +226,7 @@ const HomePage = () => {
         </div>
         <div className="w-full sm:w-1/2 p-6">
           <img
-            src="img/3731109.jpg"
+            src="/img/3731109.jpg"
             alt="Descriptive text for the image"
             style={{ width: "100%", height: "auto", objectFit: "contain" }}
           />
@@ -235,7 +235,7 @@ const HomePage = () => {
       <div className="flex flex-wrap flex-col-reverse sm:flex-row">
         <div className="w-full sm:w-1/2 p-6 mt-6">
           <img
-            src="img/na_january_20.jpg"
+            src="/img/na_january_20.jpg"
             alt="Descriptive text for the image"
             style={{ width: "100%", height: "auto", objectFit: "contain" }}
           />
@@ -343,7 +343,7 @@ const HomePage = () => {
             href="#"
           >
             <img
-              src="img/ThriftyGrocer.png"
+              src="/img/ThriftyGrocer.png"
               alt="Thrifty Grocer Logo"
               className="h-32 inline"
             />
